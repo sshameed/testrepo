@@ -1,0 +1,2 @@
+git remote set-url git@github.com:sshameed/testrepo.git
+git remote set-url origin git@github.com:sshameed/testrepo.git
